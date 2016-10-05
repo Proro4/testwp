@@ -1,5 +1,0 @@
-Name: Overwatch custom templates;
-Version: 1.0;
-Description: Дополнение для Wp-Recall, для своих полей и изменения функций плагина;
-Support Core: 10.0.0;
-Author: Собченко Павел;
